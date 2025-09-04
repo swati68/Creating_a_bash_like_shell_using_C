@@ -1,5 +1,5 @@
-# Creating_a_bash_like_shell_using_C
-C code to implement various functions of a bash shell
+# C-Shell: A Custom Bash-like Shell Implementation in C
+C-Shell is a lightweight, custom shell implemented in C, designed to emulate core functionalities of the Bash shell. This project serves as an educational tool to explore the inner workings of shell environments, including command parsing, process management, and file operations.
 
 Functions implemented:-
 
